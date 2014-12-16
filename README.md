@@ -1,4 +1,4 @@
-###Bob hardware
+#Bob hardware
 
 This repository will contain all the designs, 3D printing and laser cutting templates for the Bob diver.
 
