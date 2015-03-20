@@ -2,7 +2,7 @@
 
 This repository contains the hardware and firmware files for Mk1 of the Bob Float (codenamed "Ides").
 
-This version was built for the demonstration at the Big Bang Fair 2015 and is the first deployment of Bob. There are quite a few niggles and updates that are planned for Bob based on the findings from this version, so it's not recommended that you spend much time building this version - however, there will be a lot of cross-over of parts with the next version so you wouldn't need to rebuild everything for Mk2
+This version was built for demonstration at the Big Bang Fair 2015 and is the first deployment of Bob. There are quite a few niggles to be fixed and updates that are planned for Bob based on the findings from this version, so it's not recommended that you spend much time with it - however, there will be a lot of cross-over of parts with the next version so you wouldn't need to rebuild everything for Mk2
 
 ##Repository Layout
 
