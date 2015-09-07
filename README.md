@@ -1,12 +1,28 @@
-#Bob Mk1 - "Ides"
+#Bob the AUV
 
-This repository contains the hardware and firmware files for Mk1 of the Bob Float (codenamed "Ides").
+This repository contains the hardware and firmware files for the Bob Float.
+
+Verisons contained in this repository
+
+##Mk1
 
 This version was built for demonstration at the Big Bang Fair 2015 and is the first deployment of Bob. There are quite a few niggles to be fixed and updates that are planned for Bob based on the findings from this version, so it's not recommended that you spend much time with it - however, there will be a lot of cross-over of parts with the next version so you wouldn't need to rebuild everything for Mk2
 
-Mk2 can be found at https://github.com/darkwaterfoundation/bob-mk2
+Mk1 can be found at https://github.com/darkwaterfoundation/bob/tree/mk1
 
-##Repository Layout
+##Mk2
+
+This version had a few improvements to the code and bottom cap designs to attempt to fix a small leak discovered in the Mk1. This version was shown at Maker Faire UK and the Dublin Maker events
+
+Mk2 can be found at https://github.com/darkwaterfoundation/bob/tree/mk2
+
+##Development
+
+The development branch contains the ongoing designs and work on Mk3 - This is a dramatic redesign and simplifcation. We've moved from using the Spark / Particle core / photon microcontrollers to a dual Arduino Pro Mini system and from Wifi to a longer range wireless communication system.
+
+The Development version can be found at https://github.com/darkwaterfoundation/bob/tree/development
+
+##Repositories Layout
 
 - hardware - contains three directories
   - stl contains the 3D printed parts files
