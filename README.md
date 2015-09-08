@@ -27,9 +27,10 @@ The Development version can be found at https://github.com/darkwaterfoundation/b
 - hardware - contains three directories
   - stl contains the 3D printed parts files
   - svg contains the laser cutting files - you may need to alter the outside widths of circles based on the kerf of your cutter
-  - pcb contains the eagle files for the power board and the processing board. The processing board is designed for use with the Spark Core. Some tweaks may be needed for the Spark Photon but you *should* be able to use the same board.
-- firmware - contains the firmware for the demonstration version of Bob, this accepts commands over the Spark / Bob cloud and performs functions based on that (flashing lights / diving for x seconds) - it doesn't contain depth based functionality (other than reporting) as the tank we used was only a meter deep :)
-
+  - pcb contains the eagle files for the required PCBs.
+  - 
+- firmware - contains the firmware for the particular version of Bob - Mk1 and Mk2 use Spark / Particle processors, Future versions are Arduino.
+- 
 ##Preliminary Bill of Materials
 
 https://docs.google.com/spreadsheets/d/1KixPCNF-eNdthVP5A6QqYoAs1JIhs3zF5F2K2lznduw/edit?usp=sharing
