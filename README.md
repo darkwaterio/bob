@@ -28,9 +28,8 @@ The Development version can be found at https://github.com/darkwaterfoundation/b
   - stl contains the 3D printed parts files
   - svg contains the laser cutting files - you may need to alter the outside widths of circles based on the kerf of your cutter
   - pcb contains the eagle files for the required PCBs.
-  - 
 - firmware - contains the firmware for the particular version of Bob - Mk1 and Mk2 use Spark / Particle processors, Future versions are Arduino.
-- 
+
 ##Preliminary Bill of Materials
 
 https://docs.google.com/spreadsheets/d/1KixPCNF-eNdthVP5A6QqYoAs1JIhs3zF5F2K2lznduw/edit?usp=sharing
