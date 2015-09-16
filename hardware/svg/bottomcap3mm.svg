@@ -26,14 +26,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="350"
-     inkscape:cy="520"
+     inkscape:zoom="0.7"
+     inkscape:cx="418.02779"
+     inkscape:cy="590.02603"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="719"
      inkscape:window-height="888"
-     inkscape:window-x="-7"
+     inkscape:window-x="1913"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,62 +53,72 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="Ortho_0_005"
-       transform="translate(56.444446,52.676193)">
+       id="Ortho_0_006-0"
+       transform="translate(155.22223,50.660314)">
       <g
          style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter"
          transform="scale(1,-1)"
-         id="g377">
+         id="g398">
         <circle
            cx="0"
            cy="0"
            r="47"
-           id="circle379" />
+           id="circle400" />
         <path
            inkscape:connector-curvature="0"
-           d="M -17.381,24.452 A 30,30 0 0 0 24.452,-17.381"
-           id="path381" />
+           id="path402"
+           d="m -30.9709,25.3141 56.285,-56.285" />
         <path
            inkscape:connector-curvature="0"
-           id="path383"
-           d="M 24.452,-17.381 -17.381,24.452" />
+           d="m 25.3141,-30.9709 a 40,40 0 0 0 -56.285,56.285"
+           id="path404" />
+        <circle
+           cx="25"
+           cy="0"
+           r="9"
+           id="circle406" />
         <circle
            cx="0"
            cy="0"
            r="1.5"
+           id="circle408" />
+      </g>
+    </g>
+    <g
+       id="Ortho_0_005"
+       transform="translate(54.831746,51.063485)">
+      <g
+         style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter"
+         transform="scale(1,-1)"
+         id="g383">
+        <circle
+           cx="0"
+           cy="1.26218e-029"
+           r="47"
            id="circle385" />
+        <circle
+           cx="25"
+           cy="0"
+           r="9"
+           id="circle387" />
+        <circle
+           cx="0"
+           cy="0"
+           r="1.5"
+           id="circle389" />
         <path
            inkscape:connector-curvature="0"
-           id="path387"
-           d="M 17.381,-24.452 -24.452,17.381" />
+           id="path391"
+           d="M 18.1954,-23.8522 -23.8522,18.1954" />
         <path
            inkscape:connector-curvature="0"
-           d="M 17.381,-24.452 A 30,30 0 0 0 -24.452,17.381"
-           id="path389" />
+           d="M 18.1954,-23.8522 A 30,30 0 0 0 -23.8522,18.1954"
+           id="path393" />
         <circle
            cx="-35"
            cy="0"
            r="3.5"
-           id="circle391" />
-      </g>
-    </g>
-    <g
-       id="Ortho_0_006"
-       transform="translate(155.6254,55.901586)">
-      <g
-         style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter"
-         transform="scale(1,-1)"
-         id="g394">
-        <circle
-           cx="0"
-           cy="0"
-           r="47"
-           id="circle396" />
-        <circle
-           cx="0"
-           cy="0"
-           r="40"
-           id="circle398" />
+           id="circle395" />
       </g>
     </g>
   </g>
